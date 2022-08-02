@@ -1,0 +1,53 @@
+C:\Users\Matthias\Desktop\chat\Chat c#\Chat-Client\bin\Debug\Chat-Client.exe.config
+C:\Users\Matthias\Desktop\chat\Chat c#\Chat-Client\bin\Debug\Chat-Client.exe
+C:\Users\Matthias\Desktop\chat\Chat c#\Chat-Client\bin\Debug\Chat-Client.pdb
+C:\Users\Matthias\Desktop\chat\Chat c#\Chat-Client\obj\Debug\Chat-Client.csprojResolveAssemblyReference.cache
+C:\Users\Matthias\Desktop\chat\Chat c#\Chat-Client\obj\Debug\Chat_Client.Form1.resources
+C:\Users\Matthias\Desktop\chat\Chat c#\Chat-Client\obj\Debug\Chat_Client.Properties.Resources.resources
+C:\Users\Matthias\Desktop\chat\Chat c#\Chat-Client\obj\Debug\Chat-Client.csproj.GenerateResource.Cache
+C:\Users\Matthias\Desktop\chat\Chat c#\Chat-Client\obj\Debug\Chat-Client.csproj.CoreCompileInputs.cache
+C:\Users\Matthias\Desktop\chat\Chat c#\Chat-Client\obj\Debug\Chat-Client.exe
+C:\Users\Matthias\Desktop\chat\Chat c#\Chat-Client\obj\Debug\Chat-Client.pdb
+C:\Users\Matthias\Desktop\chat\Chat c#\Chat-Client\obj\Debug\Chat_Client.scelta.resources
+E:\chat\Chat c#\Chat-Client\bin\Debug\Chat-Client.exe.config
+E:\chat\Chat c#\Chat-Client\bin\Debug\Chat-Client.exe
+E:\chat\Chat c#\Chat-Client\bin\Debug\Chat-Client.pdb
+E:\chat\Chat c#\Chat-Client\obj\Debug\Chat-Client.csprojAssemblyReference.cache
+E:\chat\Chat c#\Chat-Client\obj\Debug\Chat_Client.Form1.resources
+E:\chat\Chat c#\Chat-Client\obj\Debug\Chat_Client.Properties.Resources.resources
+E:\chat\Chat c#\Chat-Client\obj\Debug\Chat_Client.scelta.resources
+E:\chat\Chat c#\Chat-Client\obj\Debug\Chat-Client.csproj.GenerateResource.cache
+E:\chat\Chat c#\Chat-Client\obj\Debug\Chat-Client.csproj.CoreCompileInputs.cache
+E:\chat\Chat c#\Chat-Client\obj\Debug\Chat-Client.exe
+E:\chat\Chat c#\Chat-Client\obj\Debug\Chat-Client.pdb
+F:\SCUOLA\chat\Chat c#\Chat-Client\bin\Debug\Chat-Client.exe.config
+F:\SCUOLA\chat\Chat c#\Chat-Client\bin\Debug\Chat-Client.exe
+F:\SCUOLA\chat\Chat c#\Chat-Client\bin\Debug\Chat-Client.pdb
+F:\SCUOLA\chat\Chat c#\Chat-Client\obj\Debug\Chat_Client.Form1.resources
+F:\SCUOLA\chat\Chat c#\Chat-Client\obj\Debug\Chat_Client.Properties.Resources.resources
+F:\SCUOLA\chat\Chat c#\Chat-Client\obj\Debug\Chat-Client.csproj.GenerateResource.cache
+F:\SCUOLA\chat\Chat c#\Chat-Client\obj\Debug\Chat-Client.csproj.CoreCompileInputs.cache
+F:\SCUOLA\chat\Chat c#\Chat-Client\obj\Debug\Chat-Client.exe
+F:\SCUOLA\chat\Chat c#\Chat-Client\obj\Debug\Chat-Client.pdb
+E:\SCUOLA\chat\Chat c#\Chat-Client\bin\Debug\Chat-Client.exe.config
+E:\SCUOLA\chat\Chat c#\Chat-Client\bin\Debug\Chat-Client.exe
+E:\SCUOLA\chat\Chat c#\Chat-Client\obj\Debug\Chat-Client.csprojAssemblyReference.cache
+E:\SCUOLA\chat\Chat c#\Chat-Client\obj\Debug\Chat_Client.Form1.resources
+E:\SCUOLA\chat\Chat c#\Chat-Client\obj\Debug\Chat_Client.Properties.Resources.resources
+E:\SCUOLA\chat\Chat c#\Chat-Client\obj\Debug\Chat-Client.csproj.GenerateResource.cache
+E:\SCUOLA\chat\Chat c#\Chat-Client\obj\Debug\Chat-Client.csproj.CoreCompileInputs.cache
+E:\SCUOLA\chat\Chat c#\Chat-Client\obj\Debug\Chat-Client.exe
+E:\SCUOLA\chat\Chat c#\Chat-Client\obj\Debug\Chat-Client.pdb
+E:\SCUOLA\chat\Chat c#\Chat-Client\bin\Debug\Chat-Client.pdb
+F:\SCUOLA\chat\Chat c#\Chat-Client\obj\Debug\Chat-Client.csproj.AssemblyReference.cache
+D:\Desktop\Git Hub Portfolio\Chat c#\Chat-Client\bin\Debug\Chat-Client.exe.config
+D:\Desktop\Git Hub Portfolio\Chat c#\Chat-Client\bin\Debug\Chat-Client.exe
+D:\Desktop\Git Hub Portfolio\Chat c#\Chat-Client\bin\Debug\Chat-Client.pdb
+D:\Desktop\Git Hub Portfolio\Chat c#\Chat-Client\obj\Debug\Chat-Client.csproj.AssemblyReference.cache
+D:\Desktop\Git Hub Portfolio\Chat c#\Chat-Client\obj\Debug\Chat-Client.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\Git Hub Portfolio\Chat c#\Chat-Client\obj\Debug\Chat_Client.Form1.resources
+D:\Desktop\Git Hub Portfolio\Chat c#\Chat-Client\obj\Debug\Chat_Client.Properties.Resources.resources
+D:\Desktop\Git Hub Portfolio\Chat c#\Chat-Client\obj\Debug\Chat-Client.csproj.GenerateResource.cache
+D:\Desktop\Git Hub Portfolio\Chat c#\Chat-Client\obj\Debug\Chat-Client.csproj.CoreCompileInputs.cache
+D:\Desktop\Git Hub Portfolio\Chat c#\Chat-Client\obj\Debug\Chat-Client.exe
+D:\Desktop\Git Hub Portfolio\Chat c#\Chat-Client\obj\Debug\Chat-Client.pdb
