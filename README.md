@@ -1,4 +1,5 @@
-# Simple Chat Client/Server in C#
+# Simple Chat Client/Server #
+C# .NET 4.8
 
  **Features**
   - Client Application
