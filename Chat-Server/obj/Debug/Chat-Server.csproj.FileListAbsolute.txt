@@ -1,0 +1,36 @@
+C:\Users\Matthias\Desktop\chat\Chat c#\Chat-Server\bin\Debug\Chat-Server.exe.config
+C:\Users\Matthias\Desktop\chat\Chat c#\Chat-Server\bin\Debug\Chat-Server.exe
+C:\Users\Matthias\Desktop\chat\Chat c#\Chat-Server\bin\Debug\Chat-Server.pdb
+C:\Users\Matthias\Desktop\chat\Chat c#\Chat-Server\obj\Debug\Chat-Server.csprojResolveAssemblyReference.cache
+C:\Users\Matthias\Desktop\chat\Chat c#\Chat-Server\obj\Debug\Chat-Server.csproj.CoreCompileInputs.cache
+C:\Users\Matthias\Desktop\chat\Chat c#\Chat-Server\obj\Debug\Chat-Server.exe
+C:\Users\Matthias\Desktop\chat\Chat c#\Chat-Server\obj\Debug\Chat-Server.pdb
+E:\chat\Chat c#\Chat-Server\bin\Debug\Chat-Server.exe.config
+E:\chat\Chat c#\Chat-Server\bin\Debug\Chat-Server.exe
+E:\chat\Chat c#\Chat-Server\bin\Debug\Chat-Server.pdb
+E:\chat\Chat c#\Chat-Server\obj\Debug\Chat-Server.csprojAssemblyReference.cache
+E:\chat\Chat c#\Chat-Server\obj\Debug\Chat-Server.csproj.CoreCompileInputs.cache
+E:\chat\Chat c#\Chat-Server\obj\Debug\Chat-Server.exe
+E:\chat\Chat c#\Chat-Server\obj\Debug\Chat-Server.pdb
+F:\SCUOLA\chat\Chat c#\Chat-Server\bin\Debug\Chat-Server.exe.config
+F:\SCUOLA\chat\Chat c#\Chat-Server\bin\Debug\Chat-Server.exe
+F:\SCUOLA\chat\Chat c#\Chat-Server\bin\Debug\Chat-Server.pdb
+F:\SCUOLA\chat\Chat c#\Chat-Server\obj\Debug\Chat-Server.csprojAssemblyReference.cache
+F:\SCUOLA\chat\Chat c#\Chat-Server\obj\Debug\Chat-Server.csproj.CoreCompileInputs.cache
+F:\SCUOLA\chat\Chat c#\Chat-Server\obj\Debug\Chat-Server.exe
+F:\SCUOLA\chat\Chat c#\Chat-Server\obj\Debug\Chat-Server.pdb
+E:\SCUOLA\chat\Chat c#\Chat-Server\bin\Debug\Chat-Server.exe.config
+E:\SCUOLA\chat\Chat c#\Chat-Server\bin\Debug\Chat-Server.exe
+E:\SCUOLA\chat\Chat c#\Chat-Server\bin\Debug\Chat-Server.pdb
+E:\SCUOLA\chat\Chat c#\Chat-Server\obj\Debug\Chat-Server.csprojAssemblyReference.cache
+E:\SCUOLA\chat\Chat c#\Chat-Server\obj\Debug\Chat-Server.csproj.CoreCompileInputs.cache
+E:\SCUOLA\chat\Chat c#\Chat-Server\obj\Debug\Chat-Server.exe
+E:\SCUOLA\chat\Chat c#\Chat-Server\obj\Debug\Chat-Server.pdb
+D:\Desktop\Git Hub Portfolio\Chat c#\Chat-Server\bin\Debug\Chat-Server.exe.config
+D:\Desktop\Git Hub Portfolio\Chat c#\Chat-Server\bin\Debug\Chat-Server.exe
+D:\Desktop\Git Hub Portfolio\Chat c#\Chat-Server\bin\Debug\Chat-Server.pdb
+D:\Desktop\Git Hub Portfolio\Chat c#\Chat-Server\obj\Debug\Chat-Server.csproj.AssemblyReference.cache
+D:\Desktop\Git Hub Portfolio\Chat c#\Chat-Server\obj\Debug\Chat-Server.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\Git Hub Portfolio\Chat c#\Chat-Server\obj\Debug\Chat-Server.csproj.CoreCompileInputs.cache
+D:\Desktop\Git Hub Portfolio\Chat c#\Chat-Server\obj\Debug\Chat-Server.exe
+D:\Desktop\Git Hub Portfolio\Chat c#\Chat-Server\obj\Debug\Chat-Server.pdb
