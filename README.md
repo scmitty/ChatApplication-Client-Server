@@ -1,6 +1,8 @@
 # Simple Chat Client/Server #
 C# .NET 4.8
 
+*School Project 2019*
+
  **Features**
   - Client Application
     - connect to chat
@@ -16,7 +18,3 @@ C# .NET 4.8
  **How To Use**
   - start application server
   - start  1 or multiple application client
-  
- **Contribute**
-
-The project is constantly evolving. Contributions are welcome. Feel free to file issues and pull requests on the repo and i'll address them as i can. 
